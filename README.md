@@ -1,2 +1,2 @@
 # OS_Assistant
-you have to import os,subprocess,time. these three module is used to wok on.
+you have to install os,subprocess,time. these three module is used to work on.
